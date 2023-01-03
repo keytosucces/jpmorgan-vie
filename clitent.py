@@ -61,3 +61,7 @@ if __name__ == "__main__":
             print("Ratio is undefined")
         else:
             print(f"Ratio {ratio}")
+
+            
+            
+            
